@@ -1,0 +1,25 @@
+# Manipulación de datos tabulares y matrices
+pandas
+numpy
+fsspec
+
+# Análisis Geoespacial y Vectores
+geopandas
+shapely
+fiona
+pyproj
+
+# Procesamiento de Imágenes Satelitales (Raster)
+rasterio
+
+# Visualización de datos y mapas
+matplotlib
+seaborn
+folium
+contextily
+streamlit
+pydeck
+
+# Estadística y Machine Learning
+scikit-learn
+statsmodels
